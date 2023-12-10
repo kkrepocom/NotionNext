@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.ruofei.wang' },
+    { title: '欢迎来到阿飞的小屋', url: 'https://blog.ruofei.wang' },
     { title: '访问访问我的 GITHUB 主页', url: 'https://github.com/kkrepocom' }
   ],
 
@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'blog.ruofei.wang',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '欢迎来到我的博客',
+  HEO_HERO_TITLE_5: '欢迎来到阿飞的小屋',
   HEO_HERO_TITLE_LINK: 'https://blog.ruofei.wang',
 
   // 英雄区显示三个置顶分类
